@@ -1,3 +1,6 @@
+# Source Datasets
+AAM: https://zenodo.org/records/5794629
+MoisesDB: https://github.com/moises-ai/moises-db
 # LMSS Dataset
 Get the LMSS dataset here and place as /dataset: https://www.kaggle.com/datasets/alexbailey576/language-queried-music-source-separation
 # FlowSep
