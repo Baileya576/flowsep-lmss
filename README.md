@@ -1,5 +1,5 @@
 # LMSS Dataset
-Get the LMSS dataset here and place as /dataset: 
+Get the LMSS dataset here and place as /dataset: https://www.kaggle.com/datasets/alexbailey576/language-queried-music-source-separation
 # FlowSep
 Get FlowSep from https://github.com/Audio-AGI/FlowSep and clone it into this repository
 # Pretrained models
