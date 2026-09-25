@@ -7,3 +7,5 @@ Get the LMSS dataset here and place as /dataset: https://www.kaggle.com/datasets
 Get FlowSep from https://github.com/Audio-AGI/FlowSep and clone it into this repository
 # Pretrained models
 Find the pretrained models from the paper in the Releases tab, and from https://zenodo.org/records/13869712 as per FlowSep's instructions. Place as model_logs/pretrained/...
+# Examples
+Find examples of separation on the real test split before and after lmss finetuning in the releases tab https://github.com/Baileya576/flowsep-lmss/releases/tag/example
